@@ -7,7 +7,7 @@ class DATABASE_CONFIG {
 		'host' => 'localhost',
 		'login' => 'root',
 		'password' => 'webonise6186',
-		'database' => 'cigar',
+		'database' => 'migration_db',
 	);
 }
 ?>
